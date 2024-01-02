@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-demolccapp1-dev-102412-authRole",
+      "UnauthRoleArn": "arn:aws:iam::035657149381:role/amplify-demolccapp1-dev-102412-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::035657149381:role/amplify-demolccapp1-dev-102412-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-demolccapp1-dev-102412-deployment",
+      "UnauthRoleName": "amplify-demolccapp1-dev-102412-unauthRole",
+      "StackName": "amplify-demolccapp1-dev-102412",
+      "StackId": "arn:aws:cloudformation:eu-north-1:035657149381:stack/amplify-demolccapp1-dev-102412/115ece50-6729-11ee-95ae-06480c3bc0f4",
+      "AmplifyAppId": "d22t5v0nkeyq8d"
+    },
+    "categories": {
+      "auth": {
+        "demolccapp1749bd321": {}
+      },
+      "storage": {
+        "userstorage": {}
+      },
+      "api": {
+        "demolccapp1": {}
+      }
+    }
+  }
+}

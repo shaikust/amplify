@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "demolccapp1",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-demolccapp1-dev-102412-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/7b8f0847a89023635c4e30d1e236b03542450674"
+}
